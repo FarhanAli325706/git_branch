@@ -13,5 +13,6 @@ public class chat {
     public void chatSystem()
     {
         System.out.println("Chat System");
+        System.out.println("updated");
     }
 }
